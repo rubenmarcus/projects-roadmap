@@ -1,6 +1,4 @@
-## rubenmarcus PORTFOLIO 2022
-
-### phase 1
+# rubenmarcus PORTFOLIO 2022
 
 - definition: <br/>
   `the project`<br/>
@@ -9,23 +7,28 @@
 
   `goals`<br/>
 
-  - benchmarking different apps on:<br/>
+  - benchmarking different packages on:<br/>
     - Performance, DevEx, integration.
 
-  `what tech will be used`<br/>
+## development
 
-  - <b>frontend</b>:
+### phase 1
 
-    - Next.js for HomePage<br/>
-    - Fresh for Blog in English<br/>
-    - SvelteKit for Blog in Portuguese<br/>
-    - Remix for Pages<br/>
+`what tech will be used`<br/>
 
-  - <b>hosting</b>:
-    - CloudFlare for hosting, routing and caching (SvelteKit)<br/>
-    - Deno Deploy<br/>
-    - Netlify (Next.js)<br/>
-    - Vercel (Remix)<br/>
+- <b>frontend</b>:
+
+  - Next.js for HomePage<br/>
+  - Fresh for Blog in English<br/>
+  - SvelteKit for Blog in Portuguese<br/>
+  - Remix for Pages<br/>
+
+- <b>hosting</b>:
+
+  - CloudFlare for hosting, routing and caching (SvelteKit)<br/>
+  - Deno Deploy<br/>
+  - Netlify (Next.js)<br/>
+  - Vercel (Remix)<br/>
 
 - content: <br/>
 
@@ -37,12 +40,15 @@
 
 ### phase 2
 
+- design: <br/>
+  - dark theme
 - content: <br/>
 
   - migrate to CMS (Strapi)
 
 - code: <br/>
   - monorepo??
+  - changelog and releases
 
 ### phase 3
 
@@ -51,3 +57,20 @@
 - unit tests
 - e2e tests
 - leave this portfolio archived for future reference
+
+## content
+
+### phase 1
+
+- HomePage English
+- HomePage Portuguese
+- Blog English
+- Blog Portuguese
+- About English
+- About Portuguese
+- Contact English
+- Contact Portuguese
+
+### phase 2
+
+- Animated Pages
